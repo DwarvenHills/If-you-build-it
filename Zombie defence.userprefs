@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\weaponStock.cs">
+    <Files>
+      <File FileName="Assets\Scripts\charStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\buyItems.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\zombieAI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\fenceStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\gameMechanics.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\charMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\techTree.cs" Line="103" Column="45" />
+      <File FileName="Assets\Scripts\weaponStock.cs" Line="190" Column="81" />
+      <File FileName="Assets\Scripts\weaponStats.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
